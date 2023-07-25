@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zain ul abideen
-- 👀 I’m interested in Frontend, MEAN and MERN.
+- 👀 I’m interested in Frontend, MEAN, MERN and Blockchain.
 - 🌱 I’m currently learning Advance concepts
 - 💞️ I’m looking to collaborate on new advance features
 - 📫 Reach me through zainmughalkpk@gmail.com
